@@ -1,0 +1,18 @@
+{
+  "annual_return": 0.10967401555355842,
+  "annual_volatility": 0.1373197082652623,
+  "sharpe_ratio": 0.6530309209537056,
+  "sortino_ratio": 0.7942676225599619,
+  "max_drawdown": -0.22737008007623555,
+  "calmar_ratio": 0.48235904881058017,
+  "win_rate": 0.39148073022312374,
+  "win_loss_ratio": 0.9378654061554492,
+  "total_return": 0.4799366925226374,
+  "alpha": 0.04715845889195666,
+  "beta": 0.36251560389743215,
+  "forecast_mae": 0.009540313931260149,
+  "forecast_rmse": 0.01436728652458612,
+  "direction_accuracy": 0.5537525354969574,
+  "number_of_retrains": 50.0,
+  "number_of_trades": 22.0
+}
